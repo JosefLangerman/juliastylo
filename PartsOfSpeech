@@ -1,0 +1,24 @@
+### A Pluto.jl notebook ###
+# v0.19.32
+
+using Markdown
+using InteractiveUtils
+
+# ╔═╡ 3987028a-8c6d-11ee-0cce-f3deafefe459
+md"""
+# Morphological Analysis of the SBL GNT
+
+**Date:** 26 November 2024
+
+**Author:** Josef Langerman
+
+**Data Source:** Tauber, J. K., ed. (2017) MorphGNT: SBLGNT Edition. Version 6.12 [Data set](https://github.com/morphgnt/sblgnt) DOI: 10.5281/zenodo.376200 See also [The coding stuff](https://github.com/morphgnt/sblgnt)
+
+**Code Samples Etc:** [Samples](https://github.com/jtauber/vocabulary-tools/tree/master/gnt_data)
+
+Parsing based on Analytical Greek New Testament (roughly). Found [here](https://www.agntproject.net/sites/www.agntproject.net/files/pdf-files/AGNTfrontbackRevisedInnovatingucAUG21.pdf)
+"""
+
+
+# ╔═╡ Cell order:
+# ╠═3987028a-8c6d-11ee-0cce-f3deafefe459
